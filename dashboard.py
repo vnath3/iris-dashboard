@@ -71,3 +71,4 @@ ax.pie(species_count, labels=species_count.index, autopct='%1.1f%%', startangle=
 ax.axis("equal")  # Ensures pie chart is circular
 
 st.pyplot(fig)
+
