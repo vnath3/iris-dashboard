@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("iris.csv")
+df = pd.read_csv("iris/iris.csv")
 
 # Title of your dashboard
 st.title("🌸 Iris Flower Dashboard")
